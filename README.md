@@ -3,7 +3,7 @@
 Esercizio REGISTRATORE DI CASSA
 <br>
 Data: 05.09.2019
-<br>
+<br><br>
 Specifiche del progetto
 
 Implementare un programma per un registratore di cassa.
