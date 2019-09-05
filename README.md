@@ -22,12 +22,13 @@ con i relativi prodotti.
 - Tenere in considerazione l'IVA sulla spesa.
 - Tutte le operazioni devono essere agganciate a un DB. 
 - Tutti i prodotti sono tassati con la stessa aliquota IVA. <br>
-// * Il prezzo di ogni prodotto può essere modificato durante la registrazione. <br/> *//
+- _DELETE: Il prezzo di ogni prodotto può essere modificato durante la registrazione. <br/>
 
 Opzionale: Disegnare l'interfaccia per essere fluibile da schermi touch.
-<br>
+<br><br>
 <b>Elenco specifiche: </b><br/>
 1. Deve essere sempre ben visibile l'ammontare attuale dello scontrino. <br/>
 2. E' possibile selezionare un prodotto dal menù a tendina.
 3. Una volta selezionato un prodotto, non deve essere possibile modificarne il prezzo ma può essere solo aggiunto tramite l'apposito pulsante.
-4. 
+4. L'applicazione dello sconto deve avvenire selezionando l'opportuna voce nel menu a tendina del prodotto.
+5. Nella fase di selezione del prodotto anonimo, la pulsantiera numerica ritorna abilitata per l'inserimento del pezzo.
