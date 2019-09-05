@@ -33,4 +33,4 @@ Opzionale: Disegnare l'interfaccia per essere fluibile da schermi touch.
 4. L'applicazione dello sconto deve avvenire selezionando l'opportuna voce nel menu a tendina del prodotto.
 5. Nella fase di selezione del prodotto anonimo, la pulsantiera numerica ritorna abilitata per l'inserimento del pezzo.
 6. Verrà adottato un DB basato su MariaDB, per la memorizzazione degli scontrini e dei prodotti.
-7. Il valore dei aliquota IVA sarà memorizzato come costante all'interno dell'applicazione.
+7. Il valore dell'aliquota IVA sarà memorizzato come costante all'interno dell'applicazione.
