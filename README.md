@@ -14,10 +14,10 @@ con i relativi prodotti.
 
 Inoltre è necessario:
 
-Effettuare la registrazione degli importi per i singoli prodotti.
-Effettuare la stampa dello scontrino come file di testo su disco.
-Poter applicare sconti al totale.
-Tenere in considerazione l'IVA sulla spesa.
-Tutte le operazioni devono essere agganciate a un DB.
+- Effettuare la registrazione degli importi per i singoli prodotti.
+- Effettuare la stampa dello scontrino come file di testo su disco.
+- Poter applicare sconti al totale.
+- Tenere in considerazione l'IVA sulla spesa.
 
+Tutte le operazioni devono essere agganciate a un DB.
 Opzionale: Disegnare l'interfaccia per essere fluibile da schermi touch.
