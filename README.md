@@ -1,9 +1,10 @@
 # CashRegister_05092019
+<br>
 Esercizio REGISTRATORE DI CASSA
-05.09.2019
+Data: 05.09.2019
 Specifiche del progetto
 
-
+<br>
 Implementare un programma per un registratore di cassa.
 Deve quindi essere possibile effettuare le classiche registrazioni di spese
 con i relativi prodotti.
