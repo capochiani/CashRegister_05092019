@@ -24,4 +24,6 @@ Inoltre è necessario:
 Tutte le operazioni devono essere agganciate a un DB. <br>
 Opzionale: Disegnare l'interfaccia per essere fluibile da schermi touch.
 <br>
-Tutti i prodotti sono tassati con la stessa aliquota IVA
+Elenco requisiti:
+Tutti i prodotti sono tassati con la stessa aliquota IVA.<br/>
+Il prezzo di ogni prodotto può essere modificato durante la registrazione.
