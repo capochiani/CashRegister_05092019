@@ -21,5 +21,5 @@ Inoltre è necessario:
 - Poter applicare sconti al totale.
 - Tenere in considerazione l'IVA sulla spesa.
 
-Tutte le operazioni devono essere agganciate a un DB.
+Tutte le operazioni devono essere agganciate a un DB. <br>
 Opzionale: Disegnare l'interfaccia per essere fluibile da schermi touch.
