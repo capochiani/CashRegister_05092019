@@ -14,16 +14,20 @@ con i relativi prodotti.
 - Applicazione degli sconti
 - Calcolo del totale con l'IVA.
 
-Inoltre è necessario:
+<b>Elenco requisiti:</b><br>
 
 - Effettuare la registrazione degli importi per i singoli prodotti.
 - Effettuare la stampa dello scontrino come file di testo su disco.
 - Poter applicare sconti al totale.
 - Tenere in considerazione l'IVA sulla spesa.
+- Tutte le operazioni devono essere agganciate a un DB. 
+- Tutti i prodotti sono tassati con la stessa aliquota IVA. <br>
+// * Il prezzo di ogni prodotto può essere modificato durante la registrazione. <br/> *//
 
-Tutte le operazioni devono essere agganciate a un DB. <br>
 Opzionale: Disegnare l'interfaccia per essere fluibile da schermi touch.
+
 <br><br>
-<b>Elenco requisiti:</b>
-Tutti i prodotti sono tassati con la stessa aliquota IVA.<br/>
-Il prezzo di ogni prodotto può essere modificato durante la registrazione.
+Elenco specifiche: <br/>
+1. Deve essere sempre ben visibile l'ammontare attuale dello scontrino. <br/>
+2. E' possibile selezionare un prodotto dal menù a tendina.
+3. Una volta selezionato un prodotto, non deve essere possibile modificarne il prezzo ma può essere solo aggiunto tramite l'apposito pulsante.
