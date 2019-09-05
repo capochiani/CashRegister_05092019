@@ -1,6 +1,6 @@
 # CashRegister_05092019 💸💰
 <br>
-Esercizio REGISTRATORE DI CASSA
+Esercizio del Corso: REGISTRATORE DI CASSA
 <br>
 Data: 05.09.2019
 <br><br>
