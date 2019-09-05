@@ -5,7 +5,7 @@ Esercizio REGISTRATORE DI CASSA
 Data: 05.09.2019
 <br>
 Specifiche del progetto
-<h1>
+
 Implementare un programma per un registratore di cassa.
 Deve quindi essere possibile effettuare le classiche registrazioni di spese
 con i relativi prodotti.
