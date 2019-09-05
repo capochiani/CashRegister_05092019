@@ -4,11 +4,11 @@ Esercizio REGISTRATORE DI CASSA
 <br>
 Data: 05.09.2019
 <br><br>
-Specifiche del progetto
+Specifiche del progetto:
 
-Implementare un programma per un registratore di cassa.
+<i>Implementare un programma per un registratore di cassa.
 Deve quindi essere possibile effettuare le classiche registrazioni di spese
-con i relativi prodotti.
+con i relativi prodotti. </i>
 
 - Stampa lo scontrino (attraverso la scrittura di un file su disco).
 - Applicazione degli sconti
