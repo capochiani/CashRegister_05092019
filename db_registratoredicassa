@@ -1,0 +1,36 @@
+===========================================
+SCHEMA RELAZIONALE IN SQL 
+Implementare il DB in un DBMS (SQL SERVER)
+===========================================
+CREATE TABLE prodotti (
+    codice int PRIMARY KEY,
+    note varchar(255) NOT NULL,
+    prezzo int NOT NULL
+);
+
+CREATE TABLE prodotti_scontrini (
+    id_prodotti int PRIMARY KEY NOT NULL,
+    id_scontrini int NOT NULL,
+	quantita int NOT NULL,
+    prezzo_applicato int NOT NULL
+	//references
+);
+
+CREATE TABLE scontrini (
+    id int PRIMARY KEY NOT NULL,
+    totale float NOT NULL,
+	data_ora date NOT NULL,
+    iva int NOT NULL,
+	negozio int NOT NULL
+);
+
+CREATE TABLE negozio (
+id_negozio int NOT NULL,
+responsabile CHAR (12),
+citta char (12) 
+);
+
+
+Gestione data_ora:
+2019-09-10
+https://www.w3schools.com/sql/sql_dates.asp
