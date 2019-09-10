@@ -25,9 +25,9 @@ CREATE TABLE scontrini (
 );
 
 CREATE TABLE negozio (
-id_negozio int NOT NULL,
-responsabile CHAR (12),
-citta char (12) 
+    id_negozio int NOT NULL,
+    responsabile CHAR (12),
+    citta char (12) 
 );
 
 
